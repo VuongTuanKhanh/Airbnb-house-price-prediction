@@ -4,7 +4,7 @@ Udacity project for Data Scientist 2022
 
 This project was motivated by instructors in Udacity platform  
 
-I had my whole weekend thinking about what will be first topic in medium blogspot so I take a look of some suggestion in the platform to do analyze about house price in [airbnb Boston dataset](https://www.kaggle.com/datasets/airbnb/boston). You can visit my full medium blog in [here](< bỏ link bài medium vào đây>) )
+I had my whole weekend thinking about what will be first topic in medium blogspot so I take a look of some suggestion in the platform to do analyze about house price in [airbnb Boston dataset](https://www.kaggle.com/datasets/airbnb/boston). You can visit my full medium blog in [here](https://medium.com/@vuminhduc1809/airbnb-house-price-prediction-bcd3db4f72a)
 
 ## Requirements
 
